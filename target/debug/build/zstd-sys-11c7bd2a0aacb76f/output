@@ -86,57 +86,54 @@ entropy_common.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 error_private.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-pool.c
 fse_decompress.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+pool.c
 threading.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_common.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 fse_compress.c
-hist.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+hist.c
 huf_compress.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-exit code: 0
-exit code: 0
-exit code: 0
-exit code: 0
-exit code: 0
-exit code: 0
-exit code: 0
-exit code: 0
-exit code: 0
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_compress.c
-exit code: cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_compress_literals.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_compress_sequences.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_compress_superblock.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_double_fast.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_fast.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_lazy.c
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_ldm.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_opt.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstdmt_compress.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 huf_decompress.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_ddict.c
-zstd_decompress.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_decompress_block.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cover.c
 0
 exit code: 0
 exit code: 0
@@ -149,21 +146,24 @@ exit code: 0
 exit code: 0
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+zstd_decompress.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 divsufsort.c
-cover.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 fastcover.c
 zdict.c
 zstd_v01.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 zstd_v02.c
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
-zstd_v03.c
 zstd_v04.c
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
+zstd_v03.c
 zstd_v05.c
+cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 exit code: 0
 exit code: 0
@@ -174,8 +174,8 @@ exit code: 0
 exit code: 0
 exit code: 0
 exit code: 0
-zstd_v06.c
 zstd_v07.c
+zstd_v06.c
 exit code: cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 cargo:warning=cl : Command line warning D9002 : ignoring unknown option '-fvisibility=hidden'
 0

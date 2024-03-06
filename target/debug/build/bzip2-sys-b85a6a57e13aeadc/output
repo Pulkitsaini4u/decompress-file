@@ -23,25 +23,25 @@ cargo:rerun-if-env-changed=CFLAGS
 CFLAGS = None
 cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
 blocksort.c
-crctable.c
 huffman.c
+crctable.c
 randtable.c
 compress.c
+C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinitionC:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+
+bzip2-1.0.8/huffman.c: note: see previous definition of 'BZ_EXPORT'bzip2-1.0.8/blocksort.c: note: see previous definition of 'BZ_EXPORT'
+
+bzlib.c
+C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinitiondecompress.c
+
+bzip2-1.0.8/crctable.c: note: see previous definition of 'BZ_EXPORT'
 C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
-C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinitionC:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinitionbzip2-1.0.8/crctable.c: note: see previous definition of 'BZ_EXPORT'
-
-
-C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinitionbzip2-1.0.8/huffman.c: note: see previous definition of 'BZ_EXPORT'bzip2-1.0.8/blocksort.c: note: see previous definition of 'BZ_EXPORT'
-
+bzip2-1.0.8/compress.c: note: see previous definition of 'BZ_EXPORT'C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
 
 bzip2-1.0.8/randtable.c: note: see previous definition of 'BZ_EXPORT'
-C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
-bzip2-1.0.8/compress.c: note: see previous definition of 'BZ_EXPORT'
-bzlib.c
-decompress.c
-C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinitionC:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+
 bzip2-1.0.8/bzlib.c: note: see previous definition of 'BZ_EXPORT'
-C:\Users\pulkit.saini\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
 bzip2-1.0.8/decompress.c: note: see previous definition of 'BZ_EXPORT'
 exit code: 0
 exit code: 0
